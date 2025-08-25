@@ -1,5 +1,14 @@
 /*------------ 6. Home-style-3 --------------*/
 
+.hero-section-s3{
+
+        .p-style-s2{
+            p{
+                text-transform: none !important;
+            }
+        }
+
+} 
 /*6.1 about-section-s3 */
 .about-section-s3 {
     overflow: hidden;
@@ -583,7 +592,7 @@
     }
 
     .grid {
-        flex-basis: 16.66%;
+        flex-basis: 13.66%;
         text-align: center;
         border: 1px solid rgba(49, 46, 46, 0.15);
         margin: -1px 0 0 -1px;
@@ -971,7 +980,7 @@
 
 /*6.7 work-and-marquee-text */
 .work-and-marquee-text {
-    background: #0A0906;
+    background: #000000;
     padding-top: 30px;
 
     .marquee-section-s4 h2 span {
