@@ -3606,7 +3606,7 @@ img {
   font-size: 20px;
   font-weight: 500;
   line-height: 31px;
-  text-transform: capitalize;
+  text-transform: none;
   margin-bottom: 0;
 }
 @media (max-width: 575px) {
@@ -5453,7 +5453,7 @@ img {
   width: 100%;
   overflow: hidden;
   white-space: nowrap;
-  background: #101112;
+  background: #000;
   padding: 0.5rem 0;
 }
 .marquee-section .marquee {
@@ -6994,7 +6994,7 @@ img {
   }
 }
 .service-section-s2 .title-bottom a {
-  color: #E0190B;
+  color: #BAE900;
 }
 .service-section-s2 .title-bottom a span {
   font-size: 22px;
